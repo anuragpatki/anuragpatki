@@ -38,6 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatki&" alt="anuragpatki" /></p>
 
-<img src="https://raw.githubusercontent.com/anuragpatki/anuragpatki/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/anuragpatki/anuragpatki/snake.yml" alt="Snake animation" />
