@@ -30,11 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpatki&show_icons=true&locale=en&layout=compact" alt="anuragpatki" /></p>
 
-<img src="https://raw.githubusercontent.com/anuragpatki/anuragpatki/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpatki&show_icons=true&locale=en" alt="anuragpatki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatki&" alt="anuragpatki" /></p>
-
