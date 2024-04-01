@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **patkianurag@gmail.com**
 
-- 📄 Know about my experiences [https://sahicareer-2-0-exported-resumes.s3.ap-south-1.amazonaws.com/20240125-1706155805004.pdf](https://sahicareer-2-0-exported-resumes.s3.ap-south-1.amazonaws.com/20240125-1706155805004.pdf)
+- 📄 Know about my experiences [resume](https://sahicareer-2-0-exported-resumes.s3.ap-south-1.amazonaws.com/20240125-1706155805004.pdf)
 
 - ⚡ Fun fact **Mad at coding**
 
