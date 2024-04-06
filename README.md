@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Patki</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Anurag Patki</h1>
 <h3 align="center">Highly motivated and a recent graduate with a strong academic background in software engineering seeks entry-level position to leverage skills and knowledge gained through coursework and internship experiences. Eager to contribute to developing innovative software solutions and collaborate with experienced engineers in a fast-paced environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpatki&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpatki" /> </p>
